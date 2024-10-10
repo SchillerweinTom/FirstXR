@@ -26,3 +26,4 @@ This Unity project is designed for a school assignment and implements a basic in
 ### 5. Color Changing Brush
 - A brush can change the color of objects in the scene.
 - The color of the brush can be selected through a **UI color picker**.
+- INFO: This Feature is currently not working, but partially implemented if looked in the code!
